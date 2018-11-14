@@ -34,3 +34,10 @@ You can combine both **bold** and *italics* by using a combination of underscore
 
 To do an astericks, you must use a backslash before the astericks. \*
 
+## Line Ruling
+
+You can rule lines like this:
+
+---
+___
+***
