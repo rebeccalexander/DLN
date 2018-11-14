@@ -6,4 +6,4 @@ You can link stuff to your own document like this: [etherpad](https://pad.carpen
 
 To put an image, use an exclamation mark before link: 
 
-![rabbit]()
+![rabbit](http://sciencenordic.com/sites/default/files/imagecache/620x/rabbit_0.jpg)
