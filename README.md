@@ -1,43 +1,27 @@
 # Digital Lab Notebook
 
-Normal text
 
-# Main Header
+# Quotes and Code Blocks
 
-## Secondary Header
+## Quotes
 
-### Third Header
+To add quotes, use a greater than sign:
 
-#### Fourth Header
+> This is a quote
 
-##### Fifth Header
+This is a multi-line quote:
 
-###### Sixth Header
+> Here is some multiline quotes.
+> Another line.
+> Quotes get put on the same line, if space allows.
 
-# Bold and Italics
+## Code Blocks
 
-## Bold
+To make a code block in your text, use three backticks:
 
-To put text in bold, use astericks: **This is a bold text.**
-You can also use underscores: __This is also bold text.__
+```
+install.packages("tidyverse")
+library(tidyverse)
+```
 
-## Italics
-
-To put text in italics, use asterick: *This is italic text.*
-You can also use underscores: _This is also italic._
-
-## Combination of both
-
-You can combine both **bold** and *italics* by using a combination of underscores and astericks: _**Bold and italics**_
-
-## Characters
-
-To do an astericks, you must use a backslash before the astericks. \*
-
-## Line Ruling
-
-You can rule lines like this:
-
----
-___
-***
+You can also have codes within your text like this: `echo hello world!`
